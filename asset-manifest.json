@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/falcon-ft-demo/static/css/main.7e4d5657.css",
-    "main.js": "/falcon-ft-demo/static/js/main.b118fe73.js",
+    "main.css": "/falcon-ft-demo/static/css/main.8937ce85.css",
+    "main.js": "/falcon-ft-demo/static/js/main.7697e481.js",
     "static/media/abudhabi.jpg": "/falcon-ft-demo/static/media/abudhabi.9c0ee11ce441231107bd.jpg",
     "static/media/bg3.jpg": "/falcon-ft-demo/static/media/bg3.544e793b5df0c84b488b.jpg",
     "static/media/atlantis.jpg": "/falcon-ft-demo/static/media/atlantis.51197b8025c07146019f.jpg",
     "static/media/FT-small-white.png": "/falcon-ft-demo/static/media/FT-small-white.876a58aff5b55a27862d.png",
     "index.html": "/falcon-ft-demo/index.html",
-    "main.7e4d5657.css.map": "/falcon-ft-demo/static/css/main.7e4d5657.css.map",
-    "main.b118fe73.js.map": "/falcon-ft-demo/static/js/main.b118fe73.js.map"
+    "main.8937ce85.css.map": "/falcon-ft-demo/static/css/main.8937ce85.css.map",
+    "main.7697e481.js.map": "/falcon-ft-demo/static/js/main.7697e481.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e4d5657.css",
-    "static/js/main.b118fe73.js"
+    "static/css/main.8937ce85.css",
+    "static/js/main.7697e481.js"
   ]
 }
